@@ -1,0 +1,1 @@
+This section provides a comprehensive list of Google dorks. These specialized search queries are presented for educational purposes only, demonstrating advanced search techniques for information gathering and cybersecurity research.
